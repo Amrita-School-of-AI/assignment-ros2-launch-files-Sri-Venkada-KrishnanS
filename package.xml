@@ -4,13 +4,15 @@
   <name>ros2_launch_demo</name>
   <version>0.0.0</version>
   <description>Assignment: ROS2 Launch Files</description>
-  <maintainer email="student@university.edu">Student Name</maintainer>
+  <maintainer email="cb.ai.u4aid24055@cb.students.amrita.edu">SriKrishnaS</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <depend>rclcpp</depend>
   <depend>std_msgs</depend>
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
 
   <exec_depend>ros2launch</exec_depend>
 
